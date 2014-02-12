@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aspect Ratio Tool</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="shape1_note">four by three rectangle</string>
+    <string name="shape2_note">16 by 9 aspect ratio</string>
+
+</resources>
